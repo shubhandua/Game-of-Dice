@@ -1,5 +1,3 @@
-"""CS 61A Presents The Game of Hog."""
-
 from numpy import ones
 from dice import six_sided, four_sided, make_test_dice
 from ucb import main, trace, interact
